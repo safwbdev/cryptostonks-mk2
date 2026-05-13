@@ -24,6 +24,6 @@
   "exclude": [
     "dist",
     "build",
-    "**/*.d.ts"
+    // "**/*.d.ts"
   ]
 }
